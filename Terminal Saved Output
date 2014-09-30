@@ -1,0 +1,37 @@
+Last login: Tue Sep 30 11:33:43 on ttys002
+d-173-250-152-7:~ marcocheng$ ssh mkpc@vergil.u.washington.edu
+Password: 
+Last login: Tue Sep 30 11:32:01 2014 from d-173-250-152-7.dhcp4.washington.edu
+
+                     For use by authorized users only.
+                    NOT FOR COMMERCIAL OR PERSONAL USE.
+  Policy on privacy and monitoring: www.washington.edu/computing/rules.html
+
+-psh-3.2$ ls
+public_html
+-psh-3.2$ mkdir info343
+-psh-3.2$ ls
+info343  public_html
+-psh-3.2$ pwd
+/da00/d33/mkpc
+-psh-3.2$ cd info343
+-psh-3.2$ ls
+-psh-3.2$ git clone https://github.com/mkpc/test.git
+Initialized empty Git repository in /nfs/bronfs/uwfs/da00/d33/mkpc/info343/test/.git/
+remote: Counting objects: 6, done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 6 (delta 0), reused 3 (delta 0)
+Unpacking objects: 100% (6/6), done.
+-psh-3.2$ 
+
+
+
+
+
+
+
+
+
+
+
+
